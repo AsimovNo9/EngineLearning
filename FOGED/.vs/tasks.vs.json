@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-vector",
+      "appliesTo": "src/vector.cpp",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-src",
+      "appliesTo": "src/",
+      "type": "launch"
+    }
+  ]
+}
